@@ -1,5 +1,5 @@
 # Power-BI
- Neste repositório você encontrará paineis criados por mim durante minhas experiências profissionais. Aproveite e compreenda melhor minha análise de dados.
+ Neste repositório você encontrará paineis que desenvolvi ao longo de experiências profissionaios, onde observei a necessidade junto ao cliente e criei visualizações facilitadas para acompanhamento. 
 
 #
 - ## Painel Projeto Apresentação do Produto
